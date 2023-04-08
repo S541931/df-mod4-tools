@@ -22,7 +22,7 @@
   - First Sector's SHA256: BBB4EB8CE5FA2E4085A64281A3A496283BA1B02268E704B7D99572E13EBF676B
 
 ## Exercise 4: Bit Shifting
-  ** Files are in the Exercise 4 Folder. I have made sure the SHA256 of evidence.txt and recovered.txt match, while nothing.txt is different
+  ** Files are in the Exercise 4 Folder. I have made sure the SHA256 of evidence.txt and recovered.txt match, while nothing.txt is different.
 * Bit Shifting is an incredibly easy way to hide evidence, being able to spot encrypting through bit shifting and manipulate hex or binary on a low level to decrypt evidence is an essential skill in Digital Forensics.
 
 ![image](https://user-images.githubusercontent.com/93896867/230703745-2e824f42-28b3-47d6-857f-6d5715ef1224.png)
@@ -36,7 +36,7 @@
   - SHA256: d66c973d21ec435362b2e49776916b19c1b114f31a43f894327d07ec29b47854
 
 ![image](https://user-images.githubusercontent.com/93896867/230703756-ffd11dea-9d6f-44e4-8f54-f34ad2bdf155.png)
-  - Shows 
+  - Shows me making use of WinHex's "Modify Block Data" tool instead of the completed process.
 * File: recovered.txt
   - Size: 85 bytes
   - SHA256: 7755cf6b9f99a3d0fce87c670664f298e642c2278b07a1da2cfca82b5c3fe6fd
@@ -44,5 +44,3 @@
 ## Exercise 5: Autopsy - Crack Password with Rainbow Table
 * I made use of both outside resources and my classmates but was unable to complete this exercise in the end. The Rainbow table provided in the textbook was unfortunately too large a file to make use of with my school computer and I am unsure about how I should even start with the creation of a new Rainbow Table.
 * I did make use of a fully online Resource to crack multiple passwords of varying complexities, but it did not allow me to see the results this exercises desired.
-* In this exercise
-
