@@ -1,7 +1,7 @@
 # df-mod4-tools
 
 ## Exercise 1: Autopsy
-* In this exercise
+* In this exercise 
 * Hash Database can be used on multiple facets of an investigation, being able to import them instead of recreating them in every application saves a lot of time and prevents many human errors.
 
 ![image](https://user-images.githubusercontent.com/93896867/230701925-d7c7751e-d80d-479a-be9a-a9c2fa410b81.png)
@@ -25,16 +25,20 @@
 
 ## Exercise 4: Bit Shifting
 * In this exercise
-* Files are in the Exercise 4 Folder. I have made sure the SHA256 of evidence.txt and recovered.txt match, while nothing.txt is different
+  ** Files are in the Exercise 4 Folder. I have made sure the SHA256 of evidence.txt and recovered.txt match, while nothing.txt is different
+*
 
+![image](https://user-images.githubusercontent.com/93896867/230703745-2e824f42-28b3-47d6-857f-6d5715ef1224.png)
 * File: evidence.txt
   - Size: 85 bytes
   - SHA256: 7755cf6b9f99a3d0fce87c670664f298e642c2278b07a1da2cfca82b5c3fe6fd
 
+![image](https://user-images.githubusercontent.com/93896867/230703751-e1bea17a-721e-4b40-a491-fb4616882df5.png)
 * File: nothing.txt
   - Size: 85 bytes
   - SHA256: d66c973d21ec435362b2e49776916b19c1b114f31a43f894327d07ec29b47854
 
+![image](https://user-images.githubusercontent.com/93896867/230703756-ffd11dea-9d6f-44e4-8f54-f34ad2bdf155.png)
 * File: recovered.txt
   - Size: 85 bytes
   - SHA256: 7755cf6b9f99a3d0fce87c670664f298e642c2278b07a1da2cfca82b5c3fe6fd
