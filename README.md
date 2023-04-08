@@ -22,8 +22,8 @@
   - First Sector's SHA256: BBB4EB8CE5FA2E4085A64281A3A496283BA1B02268E704B7D99572E13EBF676B
 
 ## Exercise 4: Bit Shifting
-  ** Files are in the Exercise 4 Folder. I have made sure the SHA256 of evidence.txt and recovered.txt match, while nothing.txt is different.
 * Bit Shifting is an incredibly easy way to hide evidence, being able to spot encrypting through bit shifting and manipulate hex or binary on a low level to decrypt evidence is an essential skill in Digital Forensics.
+  ** Files are in the Exercise 4 Folder. I have made sure the SHA256 of evidence.txt and recovered.txt match, while nothing.txt is different.
 
 ![image](https://user-images.githubusercontent.com/93896867/230703745-2e824f42-28b3-47d6-857f-6d5715ef1224.png)
 * File: evidence.txt
