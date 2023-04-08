@@ -14,6 +14,7 @@
 ## Exercise 3: Hex Editor
 * In this exercise
 * While Hex Editors have many uses with this exercise we are using them as a quick and simple way to find the Hash for files or Hash of sections of files. Using the Hex Editor in this way is usefull in matching File Remnants.
+
 ![image](https://user-images.githubusercontent.com/93896867/230702312-cde0dc1f-2f13-4521-9552-0b6581c8dce7.png)
 - File: Exercise3Word.docx
 - SHA256: B756583174BE94D07C999764AF2AF171D89280B0DFCBB2787C183ED14ABA505E
