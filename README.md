@@ -16,28 +16,28 @@
 * While Hex Editors have many uses with this exercise we are using them as a quick and simple way to find the Hash for files or Hash of sections of files. Using the Hex Editor in this way is usefull in matching File Remnants.
 
 ![image](https://user-images.githubusercontent.com/93896867/230702312-cde0dc1f-2f13-4521-9552-0b6581c8dce7.png)
-- File: Exercise3Word.docx
-- SHA256: B756583174BE94D07C999764AF2AF171D89280B0DFCBB2787C183ED14ABA505E
+* File: Exercise3Word.docx
+** SHA256: B756583174BE94D07C999764AF2AF171D89280B0DFCBB2787C183ED14ABA505E
 
 ![image](https://user-images.githubusercontent.com/93896867/230702435-e9d3a674-2f0b-4a52-8224-d69225d648fb.png)
-- File: Jefferson Quotes.doc" 
-- SHA256: BBB4EB8CE5FA2E4085A64281A3A496283BA1B02268E704B7D99572E13EBF676B
+* File: Jefferson Quotes.doc" 
+** SHA256: BBB4EB8CE5FA2E4085A64281A3A496283BA1B02268E704B7D99572E13EBF676B
 
 ## Exercise 4: Bit Shifting
 * In this exercise
 * Files are in the Exercise 4 Folder. I have made sure the SHA256 of evidence.txt and recovered.txt match, while nothing.txt is different
 
 * File: evidence.txt
-- Size: 85 bytes
-- SHA256: 7755cf6b9f99a3d0fce87c670664f298e642c2278b07a1da2cfca82b5c3fe6fd
+** Size: 85 bytes
+** SHA256: 7755cf6b9f99a3d0fce87c670664f298e642c2278b07a1da2cfca82b5c3fe6fd
 
 * File: nothing.txt
-- Size: 85 bytes
-- SHA256: d66c973d21ec435362b2e49776916b19c1b114f31a43f894327d07ec29b47854
+** Size: 85 bytes
+** SHA256: d66c973d21ec435362b2e49776916b19c1b114f31a43f894327d07ec29b47854
 
 * File: recovered.txt
-- Size: 85 bytes
-- SHA256: 7755cf6b9f99a3d0fce87c670664f298e642c2278b07a1da2cfca82b5c3fe6fd
+** Size: 85 bytes
+** SHA256: 7755cf6b9f99a3d0fce87c670664f298e642c2278b07a1da2cfca82b5c3fe6fd
 
 ## Exercise 5: Autopsy - Crack Password with Rainbow Table
 * I made use of both outside resources and my classmates but was unable to complete this exercise in the end. The Rainbow table provided in the textbook was unfortunately too large a file to make use of with my school computer and I am unsure about how I should even start with the creation of a new Rainbow Table.
