@@ -18,8 +18,8 @@
   - SHA256: B756583174BE94D07C999764AF2AF171D89280B0DFCBB2787C183ED14ABA505E
 
 ![image](https://user-images.githubusercontent.com/93896867/230702435-e9d3a674-2f0b-4a52-8224-d69225d648fb.png)
-* File: Jefferson Quotes.doc" 
-  - SHA256: BBB4EB8CE5FA2E4085A64281A3A496283BA1B02268E704B7D99572E13EBF676B
+* File: Jefferson Quotes.doc 
+  - First Sector's SHA256: BBB4EB8CE5FA2E4085A64281A3A496283BA1B02268E704B7D99572E13EBF676B
 
 ## Exercise 4: Bit Shifting
   ** Files are in the Exercise 4 Folder. I have made sure the SHA256 of evidence.txt and recovered.txt match, while nothing.txt is different
