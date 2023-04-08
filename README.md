@@ -36,6 +36,7 @@
   - SHA256: d66c973d21ec435362b2e49776916b19c1b114f31a43f894327d07ec29b47854
 
 ![image](https://user-images.githubusercontent.com/93896867/230703756-ffd11dea-9d6f-44e4-8f54-f34ad2bdf155.png)
+  - Shows 
 * File: recovered.txt
   - Size: 85 bytes
   - SHA256: 7755cf6b9f99a3d0fce87c670664f298e642c2278b07a1da2cfca82b5c3fe6fd
