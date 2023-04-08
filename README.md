@@ -27,15 +27,15 @@
 * In this exercise
 * Files are in the Exercise 4 Folder. I have made sure the SHA256 of evidence.txt and recovered.txt match, while nothing.txt is different
 
-- File: evidence.txt
+* File: evidence.txt
 - Size: 85 bytes
 - SHA256: 7755cf6b9f99a3d0fce87c670664f298e642c2278b07a1da2cfca82b5c3fe6fd
 
-- File: nothing.txt
+* File: nothing.txt
 - Size: 85 bytes
 - SHA256: d66c973d21ec435362b2e49776916b19c1b114f31a43f894327d07ec29b47854
 
-- File: recovered.txt
+* File: recovered.txt
 - Size: 85 bytes
 - SHA256: 7755cf6b9f99a3d0fce87c670664f298e642c2278b07a1da2cfca82b5c3fe6fd
 
