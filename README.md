@@ -7,6 +7,7 @@
 
 ## Exercise 2: Autopsy
 * Hash Database allows you to index and retrieve items in a database quickly, while avoiding files that you may not need. Autopsy gives us a very convenient method of creating these Hash Databases while we are going through the evidence, letting us archive what is known, notable, or files that need to be investigated further. 
+
 ![image](https://user-images.githubusercontent.com/93896867/230702043-852e1f78-8965-4b4f-92d4-157a744d4f29.png)
 
 ## Exercise 3: Hex Editor
